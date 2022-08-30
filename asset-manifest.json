@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/opinenotes/static/css/main.d2d4cf61.css",
+    "main.js": "/opinenotes/static/js/main.1145a296.js",
+    "index.html": "/opinenotes/index.html",
+    "main.d2d4cf61.css.map": "/opinenotes/static/css/main.d2d4cf61.css.map",
+    "main.1145a296.js.map": "/opinenotes/static/js/main.1145a296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d4cf61.css",
+    "static/js/main.1145a296.js"
+  ]
+}
